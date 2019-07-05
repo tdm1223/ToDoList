@@ -1,6 +1,6 @@
-# todolist
+# TO DO LIST
 
-> Vue ToDoList Practice
+## 뷰 연습용 To Do List
 
 ## Build Setup
 
